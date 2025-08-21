@@ -41,3 +41,15 @@ They include
 # Inputs and Outputs
 Input : The input() function is used to get data from the user, it will always return the input as a string
 Output: The print() function used to display the text or variable values on the console. 
+
+# Conditional Statements
+Execute the block of code if only a certain condition is met, they are used for decision making. 
+1. if : Executes a block of code if the condition is True. 
+2. if-else : Executes one block of code if the condition is TRue, and another block of code if the condition is False.
+3. if-elif-else : Check multiple conditions sequentially, the first one that is TRue has its block of code excuted, the rest will be ignored. 
+
+
+# Loops
+lOOPS ARE USED TO EXECUTE A BLOCK OF CODE REPEATEDLY.
+1. for loop : Iterate over a sequence and executes a block of code for each
+2. while loop : Exceutes a block of code as long as the condition is true
