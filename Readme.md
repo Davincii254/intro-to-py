@@ -53,3 +53,11 @@ Execute the block of code if only a certain condition is met, they are used for 
 lOOPS ARE USED TO EXECUTE A BLOCK OF CODE REPEATEDLY.
 1. for loop : Iterate over a sequence and executes a block of code for each
 2. while loop : Exceutes a block of code as long as the condition is true
+
+
+# Functions
+A function is a reusable block of code that runs when called and perfomes aspecific tasks. 
+
+Why we use functions;
+1. Reusable, write it once and call it multiple times.
+2. Organization, break down complex problems into simple, managable piece of code. 
